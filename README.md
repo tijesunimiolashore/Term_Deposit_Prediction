@@ -1,1 +1,2 @@
-# Term_Deposit_Prediction
+# Term Depoist Prediction
+Predict whether or not future clients would subscribe to their term deposit. Having such an effective predictive model can help increase their campaign efficiency as they would be able to identify customers who would subscribe to their term deposit and thereby direct their marketing efforts to them. The dataset should be downloaded from the [UCI ML](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing) website 
